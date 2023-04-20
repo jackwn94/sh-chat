@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE_URL = "http://70.34.242.119";
+const BASE_URL = "https://70.34.242.119";
 
 const getUserId = () =>
   new Promise((resolve, reject) => {
