@@ -18,7 +18,7 @@
     "strictNullChecks": true,
     "noUnusedLocals": true,
     "declaration": true,
-    "noUncheckedIndexedAccess": true,
+    "noUncheckedIndexedAccess": true, 
     "jsx": "preserve",
     "baseUrl": "./",
     "incremental": true
